@@ -20,10 +20,8 @@ An intelligent movie recommendation chatbot that uses AI to understand natural l
 - **In-App Settings** — Configure your AI provider, API keys, and model selection (with searchable dropdowns) — all from the UI.
 
 ## 🖼️ Screenshots
-
-<!-- Add your own screenshots here -->
-<!-- ![Chat Interface](screenshots/chat.png) -->
-<!-- ![Settings Panel](screenshots/settings.png) -->
+<img width="1145" height="957" alt="Image" src="https://github.com/user-attachments/assets/14dbc78d-3fbc-4929-9fa9-62bf34a9c807" />
+<img width="665" height="747" alt="Image" src="https://github.com/user-attachments/assets/4232ba1e-46ad-4d32-8082-3fc4345e7bbb" />
 
 ## 🚀 Getting Started
 
