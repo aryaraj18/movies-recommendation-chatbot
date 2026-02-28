@@ -38,9 +38,15 @@ An intelligent movie recommendation chatbot that uses AI to understand natural l
    cd movies-recommendation
    ```
 
-   > The movie dataset (42,000+ movies) is already included in the `data/` folder — no extra downloads needed.
+   > The movie dataset (42,000+ movies) is already included in the `data/` folder.
 
-2. **Install dependencies**
+2. **Download `credits.csv`**
+
+   The `credits.csv` file is too large for GitHub. Download it separately from the link below and place it in the `data/` folder:
+
+   📥 [Download credits.csv from Google Drive](https://drive.google.com/drive/folders/1obsfPcSNkqLRIhzKGAT3EHolEgrLmZIj?usp=sharing)
+
+3. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
