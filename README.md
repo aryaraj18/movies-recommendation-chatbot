@@ -10,7 +10,7 @@ An intelligent movie recommendation chatbot that uses AI to understand natural l
 - **Natural Language Understanding** — Ask for movies the way you'd ask a friend. The chatbot parses complex queries, extracts keywords, and finds matching movies by theme, setting, genre, cast, and more.
 - **42,000+ Movie Database** — Powered by a comprehensive movie metadata dataset with titles, genres, overviews, ratings, cast, and runtime.
 - **Multi-Provider AI Support** — Choose your preferred AI backend:
-  - **OpenRouter** (GPT, Mistral, LLaMA, and many more — includes free models)
+  - **OpenRouter** (GPT, Mistral, LLama, and many more — includes free models)
   - **Ollama** (run local models — fully offline/private)
   - **Anthropic** (Claude)
   - **Google Gemini**
