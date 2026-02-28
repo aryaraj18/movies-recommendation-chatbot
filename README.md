@@ -4,7 +4,6 @@ An intelligent movie recommendation chatbot that uses AI to understand natural l
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-green?logo=flask)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
 
